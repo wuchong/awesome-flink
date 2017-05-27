@@ -65,7 +65,7 @@ Various resources, such as books, websites and articles.
 ## Books
 
 - [Stream Processing with Apache Flink](http://shop.oreilly.com/product/0636920057321.do) - by Fabian Hueske, Vasiliki Kalavri (Nov 2017)
-- [Flink in Action](https://books.google.com/books/about/Flink_in_Action.html?id=QHEzvgAACAAJ)
+- [Flink in Action](https://books.google.com/books/about/Flink_in_Action.html?id=QHEzvgAACAAJ) - by Sameer Wadkar, Hari Rajaram (Mar 2017)
 - [Learning Apache Flink](https://www.amazon.com/Learning-Apache-Flink-Tanmay-Deshpande/dp/1786466228/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=N7HD72FCMPB4NHCMZT9R) - by Tanmay Deshpande (Feb 2017)
 - [Introduction to Apache Flink](http://shop.oreilly.com/product/0636920061724.do) - by  Ellen Friedman, Kostas Tzoumas (Oct 2016)
 
@@ -99,7 +99,7 @@ Various resources, such as books, websites and articles.
 - Tzu-Li (Gordon) Tai: **Joining the Scurry of Squirrels: Contributing to Apache Flink** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-tzuli-gordon-tai-joining-the-scurry-of-squirrels-contributing-to-apache-flink)
 - Stefan Richter: **Improvements for large state and recovery in Flink** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-stefan-richter-improvements-for-large-state-and-recovery-in-flink)
 - Ufuk Celebi: **The Stream Processor as a Database: Building Online Applications directly on Streams** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-ufuk-celebi-the-stream-processor-as-a-database-building-online-applications-directly-on-streams)
-- Jamie Grier: **Apache Flink - The Latest and Greatest ** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-jamie-grier-apache-flinkthe-latest-and-greatest)
+- Jamie Grier: **Apache Flink - The Latest and Greatest** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-jamie-grier-apache-flinkthe-latest-and-greatest)
 - Stephan Ewen: **Experiences running Flink at Very Large Scale** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-stephan-ewen-experiences-running-flink-at-very-large-scale)
 - Stephan Ewen: **Convergence of real-time analytics and data-driven applications** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-stephan-ewen-convergence-of-realtime-analytics-and-datadriven-applications)
 - Till Rohrmann: **Redesigning Apache Flink’s Distributed Architecture Back to Sessions overview** *Flink Forward San Francisco, April 2017*: [SlideShare](https://www.slideshare.net/FlinkForward/flink-forward-sf-2017-till-rohrmann-redesigning-apache-flinks-distributed-architecture-back-to-sessions-overview)
