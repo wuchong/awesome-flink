@@ -65,6 +65,7 @@ Various resources, such as books, websites and articles.
 ## Books
 
 - [Stream Processing with Apache Flink](http://shop.oreilly.com/product/0636920057321.do) - by Fabian Hueske, Vasiliki Kalavri (Nov 2017)
+- [Flink in Action](https://books.google.com/books/about/Flink_in_Action.html?id=QHEzvgAACAAJ)
 - [Learning Apache Flink](https://www.amazon.com/Learning-Apache-Flink-Tanmay-Deshpande/dp/1786466228/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=N7HD72FCMPB4NHCMZT9R) - by Tanmay Deshpande (Feb 2017)
 - [Introduction to Apache Flink](http://shop.oreilly.com/product/0636920061724.do) - by  Ellen Friedman, Kostas Tzoumas (Oct 2016)
 
@@ -82,6 +83,7 @@ Various resources, such as books, websites and articles.
 - [Jark's Blog](http://wuchong.me/categories/Flink/)（中文）
 - [Yanghua's Blog](http://vinoyang.com/tags/Flink/)（中文）
 - [THE MUSINGS OF RAWKINTREVO](https://rawkintrevo.org/category/flink/)
+- [Data Flair](http://data-flair.training/blogs/category/flink/)
 
 ## Flink Forward
 
