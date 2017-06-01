@@ -30,6 +30,10 @@ A curated list of awesome things related to Apache Flink. Inspired by [Awesome H
 
 - [Flink-TensorFlow](https://github.com/FlinkML/flink-tensorflow) - A library for machine intelligence in Apache Flink™, using the TensorFlow library and associated models.
 
+## Complex Event Processing
+
+- [Flink-Siddhi](https://github.com/haoch/flink-siddhi) - A CEP library for Flink to run Siddhi within Apache Flink streaming application
+
 ## Interfaces
 
 - [Apache Beam](https://beam.apache.org) - Unified data processing engine supporting both batch and streaming applications. Apache Flink is one of the supported execution environments.
