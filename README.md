@@ -8,6 +8,7 @@ A curated list of awesome things related to Apache Flink. Inspired by [Awesome H
 - [Packages](#packages)
   - [Notebooks](#notebooks)
   - [Machine Learning](#machine-learning)
+  - [Complex Event Processing](#complex-event-processing)
   - [Interfaces](#interfaces)
   - [Connectors](#connectors)
   - [Benchmarks](#benchmarks)
