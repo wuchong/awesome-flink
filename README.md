@@ -85,10 +85,11 @@ Various resources, such as books, websites and articles.
 
 - [Official Flink Blog](http://flink.apache.org/blog/)
 - [The data Artisans Blog](https://data-artisans.com/blog)
-- [Jark's Blog](http://wuchong.me/categories/Flink/)（中文）
+- [Flink 原理与实现](http://wuchong.me/categories/Flink/)
 - [Yanghua's Blog](http://vinoyang.com/tags/Flink/)（中文）
 - [THE MUSINGS OF RAWKINTREVO](https://rawkintrevo.org/category/flink/)
 - [Data Flair](http://data-flair.training/blogs/category/flink/)
+- [Building Applications with Apache Flink](http://bytefish.de/tag/flink/)
 
 ## Flink Forward
 
