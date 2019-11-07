@@ -80,6 +80,7 @@ Various resources, such as books, websites and articles.
 
 ## Papers
 
+- [State Management in Apache Flink](http://www.vldb.org/pvldb/vol10/p1718-carbone.pdf) - Describes Flink’s checkpointing mechanism which guarantees consistent stateful distributed stream processing. (Jul 2017)
 - [Lightweight Asynchronous Snapshots for Distributed Dataflows](https://arxiv.org/pdf/1506.08603.pdf) - Paper proposed Asynchronous Barrier Snapshotting (ABS) implemented in Flink to support stateful stream processing. (Jun 2015)
 - [Apache Flink™: Stream and Batch Processing in a Single Engine](https://kth.diva-portal.org/smash/get/diva2:1059537/FULLTEXT01.pdf) - Paper introducing Apache Flink  for processing streaming and batch data under a single execution model. (Jan 2015)
 - [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](http://people.csail.mit.edu/matei/courses/2015/6.S897/readings/google-dataflow.pdf) - Paper introducing the Dataflow model which Flink's streaming model based on. (2015)
