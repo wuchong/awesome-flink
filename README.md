@@ -94,6 +94,7 @@ Various resources, such as books, websites and articles.
 - [THE MUSINGS OF RAWKINTREVO](https://rawkintrevo.org/category/flink/)
 - [Data Flair](http://data-flair.training/blogs/category/flink/)
 - [Building Applications with Apache Flink](http://bytefish.de/tag/flink/)
+- [读Flink源码谈设计](https://juejin.cn/column/7016490828432408590)（中文）
 
 ## Flink Forward
 
