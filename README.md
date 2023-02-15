@@ -49,7 +49,7 @@ A curated list of awesome things related to Apache Flink. Inspired by [Awesome H
 - [Yahoo! Streaming benchmark extension](https://github.com/dataArtisans/yahoo-streaming-benchmark)
 
 ## Tests
-- [Flinnk spector](https://github.com/ottogroup/flink-spector) - provides a framework to define unit tests for Apache Flink data flows. The framework executes data flows locally and verifies the output using predefined expectations.
+- [Flink spector](https://github.com/ottogroup/flink-spector) - provides a framework to define unit tests for Apache Flink data flows. The framework executes data flows locally and verifies the output using predefined expectations.
 
 # Resources
 Various resources, such as books, websites and articles.
