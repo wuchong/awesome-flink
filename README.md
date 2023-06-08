@@ -97,10 +97,12 @@ Various resources, such as books, websites and articles.
 
 ## Flink Forward
 
-- Flink Forward 2015 - [Slides and Videos](http://2015.flink-forward.org/?post_type=session)
-- Flink Forward 2016 - [Slides and Videos](http://2016.flink-forward.org/program/sessions/)
-- Flink Forward San Francisco 2017 - [Slides and Videos](https://github.com/flink-china/flink-forward-sf-2017)
 - Flink Forward Berlín 2017 - [Slides](https://github.com/397090770/FlinkForward201709)
+- Flink Forward San Francisco 2017 - [Slides and Videos](https://github.com/flink-china/flink-forward-sf-2017)
+- Flink Forward 2016 - [Slides and Videos](http://2016.flink-forward.org/program/sessions/)
+- Flink Forward 2015 - [Slides and Videos](http://2015.flink-forward.org/?post_type=session)
+
+
 
 ## Slides
 
