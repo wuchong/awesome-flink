@@ -39,6 +39,7 @@ A curated list of awesome things related to Apache Flink. Inspired by [Awesome H
 ## Interfaces
 
 - [Apache Beam](https://beam.apache.org) - Unified data processing engine supporting both batch and streaming applications. Apache Flink is one of the supported execution environments.
+- [Kzmlabs StateFun Actors](https://github.com/kzmlabs/flink-statefun) - Stateful actor framework on Apache Flink 2.x with durable per-key state, exactly-once messaging, Kafka and Kinesis I/O. Continuation of Apache Stateful Functions on the modern Flink line (Java 21).
 
 ## Connectors
 - [Apache Bahir](https://github.com/apache/bahir-flink) -  Collection of the connectors excluded from Flink (Akka, ActiveMQ, Flume, Netty, Redis).
