@@ -42,6 +42,7 @@ A curated list of awesome things related to Apache Flink. Inspired by [Awesome H
 
 ## Connectors
 - [Apache Bahir](https://github.com/apache/bahir-flink) -  Collection of the connectors excluded from Flink (Akka, ActiveMQ, Flume, Netty, Redis).
+- [flink-connector-qdrant](https://github.com/Ashfaqbs/flink-connector-qdrant) - Flink SQL connector that writes streaming results directly into Qdrant, a vector database, with batching, retries and upsert-by-point-ID semantics. No official or community Flink connector previously existed for Qdrant.
 
 ## Benchmarks
 
